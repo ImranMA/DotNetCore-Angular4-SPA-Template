@@ -1,0 +1,19 @@
+﻿<div class='main-nav'>
+    <div class='navbar navbar-inverse'>
+        <div class='clearfix'></div>
+        <div>
+            <ul class='nav navbar-nav'>                
+                <li [routerLinkActive]="['link-active']" [routerLinkActiveOptions]="{exact: true}">
+                    <a [routerLink]="['itemlist']">
+                        <span class='glyphicon glyphicon-home'></span> Item List
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['additem']">
+                        <span class='glyphicon glyphicon-plus'></span> New Item
+                    </a>
+                </li>                
+            </ul>
+        </div>
+    </div>
+</div>

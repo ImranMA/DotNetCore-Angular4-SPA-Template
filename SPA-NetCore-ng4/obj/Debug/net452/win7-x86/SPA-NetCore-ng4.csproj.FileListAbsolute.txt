@@ -1,0 +1,258 @@
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.exe.config
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.deps.json
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.runtimeconfig.json
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.runtimeconfig.dev.json
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.exe
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.pdb
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\libuv.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Buffers.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\obj\Debug\net452\win7-x86\SPA-NetCore-ng4.csprojResolveAssemblyReference.cache
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\obj\Debug\net452\win7-x86\SPA-NetCore-ng4.csproj.SPA-NetCore-ng4.exe.config
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\obj\Debug\net452\win7-x86\SPA-NetCore-ng4.AssemblyInfo.cs
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\obj\Debug\net452\win7-x86\SPA-NetCore-ng4.exe
+c:\users\imran.arshad\documents\visual studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\obj\Debug\net452\win7-x86\SPA-NetCore-ng4.pdb
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Composition.AttributedModel.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Composition.Convention.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Composition.Hosting.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Composition.Runtime.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Composition.TypedParts.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\dotnet-aspnet-codegenerator-design.exe
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\NuGet.Frameworks.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Remotion.Linq.dll
+C:\Users\imran.arshad\Documents\Visual Studio 2017\Projects\SPA-NetCore-ng4\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Interactive.Async.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.exe.config
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.deps.json
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.runtimeconfig.json
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.runtimeconfig.dev.json
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.exe
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\SPA-NetCore-ng4.pdb
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\libuv.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Composition.AttributedModel.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Composition.Convention.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Composition.Hosting.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Composition.Runtime.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Composition.TypedParts.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Design.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.CommandLineUtils.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\dotnet-aspnet-codegenerator-design.exe
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\NuGet.Frameworks.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\Remotion.Linq.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Buffers.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Interactive.Async.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\obj\Debug\net452\win7-x86\SPA-NetCore-ng4.csprojResolveAssemblyReference.cache
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\obj\Debug\net452\win7-x86\SPA-NetCore-ng4.csproj.SPA-NetCore-ng4.exe.config
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\obj\Debug\net452\win7-x86\SPA-NetCore-ng4.AssemblyInfo.cs
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\obj\Debug\net452\win7-x86\SPA-NetCore-ng4.exe
+C:\Work\Training\DotNetCore-Angular4-SPA-Template\SPA-NetCore-ng4\obj\Debug\net452\win7-x86\SPA-NetCore-ng4.pdb

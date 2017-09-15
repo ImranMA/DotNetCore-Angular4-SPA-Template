@@ -1,0 +1,1 @@
+{"version":3,"file":"ItemList.component.js","sourceRoot":"","sources":["ItemList.component.ts"],"names":[],"mappings":";;;;;;;;AAAA,sCAA0C;AAM1C,IAAa,iBAAiB;IAJ9B;QAIiC,SAAI,GAAG,SAAS,CAAC;IAAC,CAAC;IAAD,wBAAC;AAAD,CAAC,AAApD,IAAoD;AAAvC,iBAAiB;IAJ7B,gBAAS,CAAC;QACP,QAAQ,EAAE,QAAQ;QAClB,WAAW,EAAE,sBAAsB;KACtC,CAAC;GACW,iBAAiB,CAAsB;AAAvC,8CAAiB"}
